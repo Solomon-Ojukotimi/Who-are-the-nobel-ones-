@@ -1,23 +1,24 @@
 # Who-are-the-nobel-ones-
 About this Report:
 This report utilizes excel an interactive and visually engaging tool to analyze our men and women who has won humanity's greatest honor of excellence. This report  presents insights into key factors such as the total number of Laurettes, how much their providence has contributed to their excellence, and what impact time played in all these.
-Tool utilize in creating this report includes: Excel pivot tables and charts
-Report  Visualization Development:
-Created interactive visuals such as:
- Award informations (KPI cards)
-Age By category  (column Chart)
-Gender diversity among Laurettes over the years (Line chart)
-Top 10 Best Countries at producing laureates ( Bar chart)
-Best Institutions at producing laureates (Bar Charts)
-Birth month vs Laureates (Line  chart)
-Implemented slicers to allow deep dives into specific award categories 
 
-Questions Answered by this report: 
+**Report  Visualization Development:**
+**Created interactive visuals such as:**
+1. Award informations (KPI cards)
+2. Age By category  (column Chart)
+3. Gender diversity among Laurettes over the years (Line chart)
+4. Top 10 Best Countries at producing laureates ( Bar chart)
+5. Best Institutions at producing laureates (Bar Charts)
+6. Birth month vs Laureates (Line  chart)
+7. Implemented slicers to allow deep dives into specific award categories 
+
+**Questions Answered by this report:** 
 1. What is the average age of winning a laureates? How does it vary across categories, what category does it averagely takes a longer time to get this prestigious honour in?
 2. What is the trend in gender diversification over the years, are women more likely to win it now than the time past?, what of men? have their chances of winning this honor decline over the years?
 3. How important a role has geography played in who wins this great award?
 4. What about institutions?, what institutions have been a major producer of this men and women of excellence?!
-Insights:
+
+**Insights:**
 1. There are 923 people that have been honored by this award and of them, the field of medicine has contributed most with 219 laureates while the category of Economics has seen the least number of laureates with 84 laureates..
 2. The average age of winning a Nobel prize is 60 years, with the category of Economics getting awarded to averagely older laureates at 67 years, while the category with the youngest laureates is physics with an average of 56 years 
 3. Economics having the the lowest number of laureates at 84 and the oldest award winners at 67 years, it's a safe enough conclusion that based on this dataset, it could be considered the more complex award to win as a laureates..while physics with the second largest number of laureates at 213 and an average age of 56 for it's award winners,it's a relatively more accessible category to win an award in.
